@@ -19,4 +19,4 @@ This file takes two parameters:
 - a specified server IP address
 - a specified server PORT number
 
-After running the executable, open your browser of choice and navigate to <IP address>:<PORT number>. Thus the game then begins.
+After running the executable, open your browser of choice and navigate to `<IP address>`:`<PORT number>`. Thus the game then begins.
