@@ -2,7 +2,9 @@
 
 This was project 1 of Semester 1 2019 Computer Systems (COMP30023).
 
-The goal was to build a simple game where two local players (same device) would take turns tagging an image with words that can be used to describe it, and if two words are the same then they would progress to the next round.
+The goal was to build a simple game where two local players (same device) would take turns tagging an image with words that can be used to describe it, and if two words are the same then they would progress to the next round. 
+
+Detailed instructions for the game are provided in `image_tagger.html`.
 
 The game server was implemented using socket programming in C and could be interacted with using HTTP protocols.
 
